@@ -10,13 +10,13 @@ Skrip python ### untuk brute force Hack gmail
 
 ### git clone 
 'https: // github.com/paulumi/MBF-Gmail .git'
-    
+    ![20190921_230944](https://user-images.githubusercontent.com/47181365/65375979-0ca02280-dcc5-11e9-936e-61451512e600.jpg)
 ### cd MBF-Gmail
 
 ### chmod + x *
 
 ### python2 gm4il.py
-
+![20190921_230915](https://user-images.githubusercontent.com/47181365/65375978-0c078c00-dcc5-11e9-86e5-7223e3bff2d5.jpg)
 _select no.1_ _path file kata sandi:_ 
 # Contoh.txt (create your own wordlist.txt)
  email target: mr.nd@gmail.com_
