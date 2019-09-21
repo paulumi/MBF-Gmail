@@ -10,9 +10,9 @@ Skrip python ### untuk brute force Hack gmail
 
 ### git clone 
     
-### cd Gm4il-Hack
+### cd MBF-Gmail
 
-### chmod + x gm4il.py
+### chmod + x *
 
 ### python gm4il.py
 
