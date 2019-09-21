@@ -22,4 +22,5 @@ _select no.1_ _path file kata sandi:_
  email target: mr.nd@gmail.com_
 ### ScreenShot
 
-! [capture1] (https://user-images.githubusercontent.com/33704360/38995760-7b25ec4c-439e-11e8-9430-c33bd9b1f5b4.PNG)
+
+![Screenshot_20190921-225725_Termux](https://user-images.githubusercontent.com/47181365/65375863-f9408780-dcc3-11e9-9160-f898605a8b30.jpg)
