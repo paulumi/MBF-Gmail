@@ -14,26 +14,26 @@ def main():
    print '                                                 '
    print '                                                 '
    print '           mr.ND                                '
-   print '       _,.                   *
-   print '     ,` -.)                  *
-   print '    ( _/-\\-._               *
-   print '   /,|`--._,-^|            , *
-   print '   \_| | 0. 0 )          , | |
-   print '     |  `-, / |         / M/ |
-   print '     |    [==] |       / r/  ~
-   print '      `r-._||/   __   /  /   ~
-   print '  __,-<_     )`-/  `./  /    ~
-   print '  \   `---    \   / /N /     ~
-   print '     |           |./D /      ~
-   print '     /           //  /       |
-   print ' \_/  \         |/  /        |
-   print '  |    |   _,^- /  /         |
-   print '  |    , ``  (\/  /_         |
-   print '   \,.->._    \X-=/^         |
-   print '   (  /   `-._//^`           |
-   print '    `Y-.____(__}             ~
-   print '     |     {__)              ~ 
-   print '         (mr.ND)                ~
+   print '       _,.                   *'
+   print '     ,` -.)                  *'
+   print '    ( _/-\\-._               *'
+   print '   /,|`--._,-^|            , *'
+   print '   \_| | 0. 0 )          , | |'
+   print '     |  `-, / |         / M/ |'
+   print '     |    [==] |       / r/  ~'
+   print '      `r-._||/   __   /  /   ~'
+   print '  __,-<_     )`-/  `./  /    ~'
+   print '  \   `---    \   / /N /     ~'
+   print '     |           |./D /      ~'
+   print '     /           //  /       |'
+   print ' \_/  \         |/  /        |'
+   print '  |    |   _,^- /  /         |'
+   print '  |    , ``  (\/  /_         |'
+   print '   \,.->._    \X-=/^         |'
+   print '   (  /   `-._//^`           |'
+   print '    `Y-.____(__}             ~'
+   print '     |     {__)              ~ '
+   print '         (mr.ND)              ~'
 
 main()
 print '[1] start the attack'
