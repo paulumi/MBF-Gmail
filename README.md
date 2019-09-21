@@ -18,7 +18,7 @@ Skrip python ### untuk brute force Hack gmail
 ### python2 gm4il.py
 
 _select no.1_ _path file kata sandi:_ 
-# Contoh.txt
+# Contoh.txt (create your own wordlist.txt)
  email target: mr.nd@gmail.com_
 ### ScreenShot
 
