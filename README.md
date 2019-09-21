@@ -9,6 +9,7 @@ Skrip python ### untuk brute force Hack gmail
 ### Tingkat keberhasilan min,kecuali anda punya skill.
 
 ### git clone 
+'https: // github.com/paulumi/MBF-Gmail .git'
     
 ### cd MBF-Gmail
 
