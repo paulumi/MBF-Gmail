@@ -9,7 +9,7 @@ function main_menu() {
 echo -e "\e[1;32m======PASSWORD CRACKING======\e[0m"
 echo
 echo "    ─▄▀▀▀▄──────────────"
-echo "    ─█───█──────────────"
+echo "    ─█ ND─█──────────────"
 echo "    ███████─────────▄▀▀▄"
 echo "    ██───██░░█▀█▀▀▀▀█░░█"
 echo "    ███▄███░░▀░▀░░░░░▀▀░"
@@ -39,7 +39,7 @@ echo
 echo
        echo -e "\e[1;33m[08]\e[1;32m Keluar dari Menu \e[0m"
 echo
-        read -p "Choice: " m_choice
+        read -p "Pilih No>: " m_choice
         echo
 # MENU PILIHAN
         case "$m_choice" in
@@ -55,10 +55,10 @@ echo
 clear
                 echo
                 ;;
-            2) figlet  READ ON TXT
+            2) figlet  MASUK TXT
                 echo
 sleep 2                
-                 cat README.MD
+                 cat README.md
 sleep 7
                 echo 
 clear
@@ -88,7 +88,7 @@ echo
                   cat >pass.txt
                 ;;
             6)  figlet LIHAT 
-                  figlet PASS
+                  figlet PASSWORD
 sleep 3
 echo
                  echo -e "\e[1;36mPASSWORD DIKUMPULKAN DARI HUTAN:\e[0m"
@@ -102,8 +102,8 @@ sleep 7
 echo -e "\e[1;33mTULIS EMAIL SAMPEAN: \e[0m"
 read MAIL
 echo
-echo -e "\e[1;33mTAMPILKAN EMAIL SAMPEAN: \e[0m"
-read PASS
+echo -e "\e[1;33mTULIS EMAIL MANTAN: \e[0m"
+read PASSWORD
 echo
 echo
 #Copy and Paste
