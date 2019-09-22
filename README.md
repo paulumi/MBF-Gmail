@@ -24,3 +24,11 @@ _select no.1_ _path file kata sandi:_
 
 
 ![Screenshot_20190921-225725_Termux](https://user-images.githubusercontent.com/47181365/65375863-f9408780-dcc3-11e9-9160-f898605a8b30.jpg)
+
+> Kalo pake Python gagal coba sampean pake Shell
+
+> kalau masih gagal berarti gak punya BAKAT.
+
+`bash Gm4il.sh / ./Gm4il.sh`
+![Screenshot_20190922-134606_Termux](https://user-images.githubusercontent.com/47181365/65383437-d2c03200-dd3f-11e9-83a2-052e8fa08865.jpg)
+
