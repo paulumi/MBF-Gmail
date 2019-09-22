@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Real Prueba Brute Force
+#Tes Kekuatan Nyata Brute
 echo
 clear
 function main_menu() {
@@ -16,46 +16,46 @@ echo "    ███▄███░░▀░▀░░░░░▀▀░"
 echo
         echo " +--------------------------+"
         echo " |                          |"
-        echo " |      HACK GMAIL RS       |"
+        echo " |      HACK GMAIL ND       |"
         echo " |                          |"
         echo " +--------------------------+"
         echo
-        echo -e "\e[1;36m REAL STRATEGY - DOMINANDO\e[0m"
+        echo -e "\e[1;36m STRATEGI NYATA - DOMINAN\e[0m"
 echo
-#LISTA DE OPCIONES
-        echo -e "\e[1;33m[01]\e[1;32m Instalar hack gmail\e[0m"
+#DAFTAR OPSI
+        echo -e "\e[1;33m[01]\e[1;32m Instal hack gmail\e[0m"
 echo
-        echo -e "\e[1;33m[02]\e[1;32m Informacion de uso\e[0m"
+        echo -e "\e[1;33m[02]\e[1;32m Informasi pengguna\e[0m"
 echo
-        echo -e "\e[1;33m[03]\e[1;32m Mas Herramientas\e[0m"
+        echo -e "\e[1;33m[03]\e[1;32m Tools Lainya\e[0m"
 echo
-        echo -e "\e[1;33m[04]\e[1;32m Creditos al creador\e[0m"
+        echo -e "\e[1;33m[04]\e[1;32m Hargai karya ND\e[0m"
 echo
-        echo -e "\e[1;33m[05]\e[1;32m Crear lista de contraseñas\e[0m"
+        echo -e "\e[1;33m[05]\e[1;32m Lihat daftar kata sandi(.txt)\e[0m"
 echo
-        echo -e "\e[1;33m[06]\e[1;32m Ver lista de contraseñas\e[0m"
+        echo -e "\e[1;33m[06]\e[1;32m Buat pass.txt sendiri\e[0m"
 echo
-       echo -e "\e[1;33m[07]\e[1;32m Ejecutar hack gmail\e[0m"
+       echo -e "\e[1;33m[07]\e[1;32m Retas gmail Mantan\e[0m"
 echo
-       echo -e "\e[1;33m[08]\e[1;32m Salir del menu\e[0m"
+       echo -e "\e[1;33m[08]\e[1;32m Keluar dari Menu \e[0m"
 echo
         read -p "Choice: " m_choice
         echo
-# OPCIONES DEL MENU 
+# MENU PILIHAN
         case "$m_choice" in
-            1) figlet Instalando
+            1) figlet Install
                  figlet Tools
                 pkg install hydra
               echo -e "\e[1;32m===============================================\e[0m"
                 figlet Hack Gmail
              echo -e "\e[1;32m================================================\e[0m"
-             echo -e "\e[1;31m HERRAMIENTA INSTALADA\e[0m"
+             echo -e "\e[1;31m LAGI MENGINSTAL CUK\e[0m"
 echo
              sleep 4
 clear
                 echo
                 ;;
-            2) figlet LEER TXT
+            2) figlet  READ ON TXT
                 echo
 sleep 2                
                  cat README.MD
@@ -65,55 +65,55 @@ clear
                 ;;
             3)  sub_menu
                 ;;
-            4)  figlet CREDITOS 
+            4)  figlet CREDIT 
 echo
-                 echo -e "\e[1;32mCREATED BY: Real Strategy and Hydra\e[0m"
+                 echo -e "\e[1;32mCREATED BY: Strategi Nyata and Hydra\e[0m"
 echo
-                echo -e "\e[1;32mFACEBOOK MY: Real Hack RWAM\e[0m"
+                echo -e "\e[1;32mFACEBOOK MY: Nuzul Dzikri\e[0m"
 echo
-                echo -e "\e[1;32mYOUTUBE MY: Real Hack RWAM\e[0m"
+                echo -e "\e[1;32mYOUTUBE MY: Di Banned(ND)\e[0m"
 echo
-                echo -e "\e[1;32mMENSAJE: Nunca dejes de aprender\e[0m"
+                echo -e "\e[1;32mPESAN: Recode boleh Asal tau diri\e[0m"
                 echo
 sleep 4
 clear
                 ;;
-            5)  echo -e "\e[1;32mCREANDO PASSLIST.TXT\e[0m"
+            5)  echo -e "\e[1;32mBUAT PASS.TXT\e[0m"
 echo
                   sleep 3
-                  echo -e "\e[1;33mRECUERDE PARA SALIR DIJITE CTRL+ D\e[0m"
+                  echo -e "\e[1;33mUNTUK KELUAR TEKAN CTRL+ D\e[0m"
                   echo
-                   echo -e "\e[1;36mESCRIBA LAS CONTRASEÑAS RECOPILADAS : \e[0m"
+                   echo -e "\e[1;36mPASSWORD TULISAN : \e[0m"
                   sleep 2
-                  cat >passlist.txt
+                  cat >pass.txt
                 ;;
-            6)  figlet VER 
+            6)  figlet LIHAT 
                   figlet PASS
 sleep 3
 echo
-                 echo -e "\e[1;36mCONTRASEÑAS RECOPILADAS DE LA SUPUESTA VICTIMA:\e[0m"
-                 cat passlist.txt
+                 echo -e "\e[1;36mPASSWORD DIKUMPULKAN DARI HUTAN:\e[0m"
+                 cat pass.txt
 sleep 7
                  echo
                 ;;
              7) echo
-#Ejecutando los datos
+#Mengeksekusi data
 
-echo -e "\e[1;33mESCRIBE TU CORREO: \e[0m"
-read CORREO
+echo -e "\e[1;33mTULIS EMAIL SAMPEAN: \e[0m"
+read MAIL
 echo
-echo -e "\e[1;33mESCRIBE EL PASSLIST: \e[0m"
-read PASSLIST
+echo -e "\e[1;33mTAMPILKAN EMAIL SAMPEAN: \e[0m"
+read PASS
 echo
 echo
 #Copy and Paste
 
-echo -e "\e[1;36m              COPIA Y PEGA EL SIGUIENTE COMANDO\e[0m"
-echo -e "\e[1;36m         PARA EJECUTAR LA BUSQUEDA DE LA CONTRASEÑA\e[0m"
+echo -e "\e[1;36m              COPAS PERINTAH BERIKUT\e[0m"
+echo -e "\e[1;36m      UNTUK MELAKSANAKAN PENCARIAN PASSWORD\e[0m"
 echo
 sleep 3
 echo " #####################################"
-echo " #          COMANDO HYDRA            #"
+echo " #          PERINTAH HYDRA            #"
 echo " #####################################"
 echo
 echo
@@ -125,9 +125,9 @@ echo
 exit 0
               ;;
              8) exit 0
-# FINAL DEL MENU RS
+# MENU TERAKIR ND
              ;;
-            *)  echo -e "\e[1;31mNo es una opcion valida\e[0m"
+            *)  echo -e "\e[1;31mIni Bukan Opsi yg Bener\e[0m"
 sleep 2
                 echo
                 ;;
@@ -140,20 +140,20 @@ function sub_menu()
     while :
     do
         echo
-        figlet SUPER 
+        figlet NUZUL 
         figlet TOOLS
         echo
-        echo -e "\e[1;33m[01]\e[1;32m Instalar Htop\e[0m"
+        echo -e "\e[1;33m[01]\e[1;32m install Htop\e[0m"
 echo
-        echo -e "\e[1;33m[02]\e[1;32m Instalar Nmap\e[0m"
+        echo -e "\e[1;33m[02]\e[1;32m install Nmap\e[0m"
 echo
-        echo -e "\e[1;33m[03]\e[1;32m Volver al menu anterior\e[0m"
+        echo -e "\e[1;33m[03]\e[1;32m Kembali ke Menu Sebelume\e[0m"
 echo
         read -p "Choice: " s_choice
         echo
-#MENU DE HERRAMIENTAS
+#MENU ALAT
         case "$s_choice" in
-            1)  figlet INSTALANDO
+            1)  figlet install
                 figlet HTOP
 sleep 2
                 echo
@@ -161,12 +161,12 @@ sleep 2
                 echo "==============================================="
                 figlet HTOP
              echo "================================================"
-                 echo -e "\e[1;31mHERRAMIENTA INSTALADA\e[0m"
+                 echo -e "\e[1;31mALAT DI INSTAL\e[0m"
 sleep 3
 echo
 clear
                 ;;
-            2)  figlet INSTALANDO
+            2)  figlet INSTAL
                  figlet NMAP
 sleep 2
                 echo
@@ -174,13 +174,13 @@ sleep 2
                 echo "==============================================="
                 figlet NMAP
              echo "================================================"
-                 echo -e "\e[1;31mHERRAMIENTA INSTALADA\e[0m"
+                 echo -e "\e[1;31mALAT DI INSTAL\e[0m"
 echo
 clear
                 ;;
             3)  main_menu
                 ;;
-            *)  echo -e "\e[1;31mNo es una opcion valida\e[0m"
+            *)  echo -e "\e[1;31mIni opsi yg gak Bener\e[0m"
 sleep 2
                 echo
                 ;;
